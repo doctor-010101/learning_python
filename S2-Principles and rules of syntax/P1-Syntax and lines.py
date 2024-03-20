@@ -18,6 +18,10 @@
         # 5 => Comments cannot be written between logical lines.
         # 6 => If there are values inside ( ) or [ ], you don't need "/" to separate them and break to the next line, and you can comment after them.
 
-# PEP 8 => PEP 8, sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. It was written in 2001 by Guido van Rossum, Barry Warsaw, and Alyssa Coghlan. The primary focus of PEP 8 is to improve the readability and consistency of Python code
+# PEP 8 => 👇
+
+    # PEP 8, sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code.
+    # It was written in 2001 by Guido van Rossum, Barry Warsaw, and Alyssa Coghlan.
+    # The primary focus of PEP 8 is to improve the readability and consistency of Python code.
         
     
