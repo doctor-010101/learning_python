@@ -1,0 +1,11 @@
+How to install and learn about Python coding environments.
+
+Types of platforms for Python coding 👇
+
+    1 => Python interpreter and IDLE
+    2 => PyCharm
+    3 => VS Code
+    4 => ipython
+    5 => jupyter notebook
+    6 => Python coding on mobile
+    7 => Python coding on web
