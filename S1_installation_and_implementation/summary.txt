@@ -9,3 +9,4 @@ Types of platforms for Python coding 👇
     5 => jupyter notebook
     6 => Python coding on mobile
     7 => Python coding on web
+    
