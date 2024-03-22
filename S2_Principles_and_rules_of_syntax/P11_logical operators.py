@@ -20,18 +20,18 @@ y = 5
 # and
 print(
     x > y and (x / 2) == y and x == (y * 2)
-)  # Because all the statements are true, then the result is true.
+)  # Because all the expression are true, then the result is true.
 print(
     x > y and x <= y and x == (y * 2)
-)  # Because one of the statements is false, then the result is false.
+)  # Because one of the expression is false, then the result is false.
 
 # or
 print(
     x > y or x == y or (x / 2) > y
-)  # Because one of the statements is true, the result is also true.
+)  # Because one of the expression is true, the result is also true.
 print(
     x <= y or x == y or (x / 2) > y
-)  # Because all statements are false, the result is also false.
+)  # Because all expression are false, the result is also false.
 
 # not reverse the result
 
