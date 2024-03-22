@@ -1,5 +1,5 @@
 """
-We have thirteen arithmetic operators which are divided into two types:
+We have two types:
     1 => Normal assignment by "=" 1
     2 => arithmetic assignment(first it is calculated and then the result is assigned) 12
 """
@@ -20,13 +20,12 @@ x //= 2  # Same as => x = x // 2, Result: 10 // 2 = 5 => x = 5
 
 x **= 2  # Same as => x = x ** 2, Result: 10 ** 2 = 100 => x = 100
 
-x &= 2  # Same as => x = x & 2, Result: 10 & 2 = 100 => x = 100
+x &= 2  # Same as => x = x & 2, Result: 10 & 2 = 2 => x = 2
 
-x |= 2  # Same as => x = x | 2, Result: 10 | 2 = 100 => x = 100
+x |= 2  # Same as => x = x | 2, Result: 10 | 2 = 10 => x = 10
 
-x ^= 2  # Same as => x = x ^ 2, Result: 10 ^ 2 = 100 => x = 100
+x ^= 2  # Same as => x = x ^ 2, Result: 10 ^ 2 = 8 => x = 8
 
-x >>= 2  # Same as => x = x >> 2, Result: 10 >> 2 = 100 => x = 100
+x >>= 2  # Same as => x = x >> 2, Result: 10 >> 2 = 2 => x = 2
 
-x <<= 2  # Same as => x = x << 2, Result: 10 << 2 = 100 => x = 100
-
+x <<= 2  # Same as => x = x << 2, Result: 10 << 2 = 40 => x = 40
