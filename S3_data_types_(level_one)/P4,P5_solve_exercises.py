@@ -10,7 +10,7 @@ print("Area:", area, "perimeter:", perimeter)
 # 2 => Write a program that takes a number from the user and prints its square and cube.
 main_number = int(input("Enter any number : "))
 square = main_number**2
-cube = (main_number**2) * main_number
+cube = main_number**3
 print("square and cube =", square, "and", cube)
 
 
