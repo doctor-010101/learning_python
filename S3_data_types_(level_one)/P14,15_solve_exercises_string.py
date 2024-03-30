@@ -34,3 +34,5 @@ print(ord(user_character))
 # Exercise 3 => Is user input number or not?
 user_phone_number = input("Enter yout phone number...")
 print(user_phone_number.isnumeric())
+print(user_phone_number.isdigit())
+print(user_phone_number.isdecimal())
