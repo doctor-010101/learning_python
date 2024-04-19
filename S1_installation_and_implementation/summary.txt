@@ -4,9 +4,8 @@ Types of platforms for Python coding 👇
 
     1 => Python interpreter and IDLE
     2 => PyCharm
-    3 => VS Code
+    3 => VS Code and other code editors
     4 => ipython
     5 => jupyter notebook
     6 => Python coding on mobile
     7 => Python coding on web
-    
