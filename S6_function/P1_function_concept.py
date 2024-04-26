@@ -1,0 +1,1 @@
+# Functions in the programming world take an input, perform an operation on it, and deliver an output.
