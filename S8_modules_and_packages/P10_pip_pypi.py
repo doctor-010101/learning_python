@@ -91,4 +91,5 @@
 
 # pip install --upgrade pip
 # ### Summary
-# Pip and PyPI are powerful tools for managing Python packages. With Pip, you can easily manage the packages needed for your projects, and with PyPI, you have access to a vast library of tools and libraries developed by the Python community.
+# Pip and PyPI are powerful tools for managing Python packages. 
+# With Pip, you can easily manage the packages needed for your projects, and with PyPI, you have access to a vast library of tools and libraries developed by the Python community.
