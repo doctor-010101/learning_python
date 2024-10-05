@@ -1,4 +1,3 @@
-# .py, [10/4/2024 1:42 AM]
 # In Python, there are several methods for reading from and writing to files, allowing you to easily manage file content. Below is a detailed explanation of the main methods along with examples.
 
 # Methods for Reading from a File
@@ -143,7 +142,7 @@
 
 # For reading from a file, you use methods like read(), readline(), and readlines().
 
-# .py, [10/4/2024 1:42 AM]
+
 # For writing to a file, you use write() and writelines().
 
 # Different file modes (read, write, append) control how files are opened and manipulated.
