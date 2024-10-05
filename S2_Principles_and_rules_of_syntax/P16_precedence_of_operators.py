@@ -12,7 +12,7 @@ Precedence of operators
     10 => &
     11 => ^
     12 => |
-    13 => in, not in, is, is not, >, <, >=, <=, ==, !=, 
+    13 => in, not in, is, is not, >, <, >=, <=, ==, !=
     14 => not
     15 => and
     16 => or
