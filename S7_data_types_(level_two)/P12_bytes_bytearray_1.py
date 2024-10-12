@@ -99,6 +99,3 @@ print(item)  # Output: 33
 ba = bytearray([72, 101, 108, 108, 111, 33])
 ba.remove(108)  # Removing the first 108
 print(ba)  # Output: bytearray(b'Helo!')
-
-
-# I hope this explanation is helpful. If you have any other questions, feel free to ask!
