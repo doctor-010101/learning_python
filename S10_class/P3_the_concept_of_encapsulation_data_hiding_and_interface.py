@@ -100,3 +100,45 @@
 
 #     def area(self):
 #         return self.width * self.height
+# def perimeter(self):
+#         return 2 * (self.width + self.height)
+
+# # Implementing another derived class
+# class Circle(Shape):
+#     def init(self, radius):
+#         self.radius = radius
+
+#     def area(self):
+#         return 3.14159 * (self.radius ** 2)
+
+#     def perimeter(self):
+#         return 2 * 3.14159 * self.radius
+
+# # Using the interface
+# shapes = [Rectangle(3, 4), Circle(5)]
+
+# for shape in shapes:
+#     print(f"Area: {shape.area()}, Perimeter: {shape.perimeter()}")
+
+# Explanation:
+
+# The Shape class is an abstract base class that defines the interface with two abstract methods: area and perimeter.
+
+# The Rectangle and Circle classes implement this interface by providing their own versions of the area and perimeter methods.
+
+# This allows you to treat both Rectangle and Circle objects uniformly when calculating their area and perimeter.
+
+
+
+# ---
+
+# Conclusion
+
+# Encapsulation protects the internal state of an object and organizes code into classes, allowing access through defined methods.
+
+# Data Hiding restricts direct access to object attributes, ensuring they are manipulated only through methods.
+
+# Interfaces define a contract for classes, enabling polymorphism and allowing different classes to be used interchangeably.
+
+
+# These principles are essential for writing clean, maintainable, and efficient object-oriented code in Python.
