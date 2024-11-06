@@ -4,6 +4,12 @@ Hey there, coders, newbies, and everyone who’s heard of Python and thought it 
 
 💚 Taken from the Python training course of Professor Reza Dolati from Sabzlern Academy 💚
 
+```
+🍀 Written by Hassan Seyf Ali Pour
+🍀 Copying without citing the source is not allowed
+🍀 Be professional so you don't get caught
+```
+
 ---
 
 ## About the Project 📰
